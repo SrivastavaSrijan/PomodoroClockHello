@@ -5,7 +5,7 @@ Being productive is hard. We make it easy. :eggplant:
 
 
 ## Getting Started
-This is a simple website to get started using the pomodoro clock at (https://srijansrivastava.tech/pomodoroclock/)
+This is a simple website to get started using the pomodoro clock at (https://apps.srijansrivastava.tech/pomodoroclock/)
 
 ## Built With
 
