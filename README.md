@@ -5,7 +5,7 @@ Being productive is hard. We make it easy. :eggplant:
 
 
 ## Getting Started
-This is a simple website to get started using the pomodoro clock at (https://apps.srijansrivastava.tech/pomodoroclock/)
+This is a simple website to get started using the pomodoro clock at (https://apps.srijansrivastava.com/PomodoroClock/)
 
 ## Built With
 
@@ -15,7 +15,7 @@ This is a simple website to get started using the pomodoro clock at (https://app
 
 ## Authors
 
-* **Srijan Srivastava** - [Portfolio](https://srijansrivastava.tech/pomodoroclock/)
+* **Srijan Srivastava** - [Portfolio](https://srijansrivastava.com/)
 
 
 ## License
